@@ -1,0 +1,15 @@
+D:\Bold Solution\.NET\testes-rd-station\obj\Debug\net6.0\testes-rd-station.csproj.AssemblyReference.cache
+D:\Bold Solution\.NET\testes-rd-station\obj\Debug\net6.0\testes-rd-station.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bold Solution\.NET\testes-rd-station\obj\Debug\net6.0\testes-rd-station.AssemblyInfoInputs.cache
+D:\Bold Solution\.NET\testes-rd-station\obj\Debug\net6.0\testes-rd-station.AssemblyInfo.cs
+D:\Bold Solution\.NET\testes-rd-station\obj\Debug\net6.0\testes-rd-station.csproj.CoreCompileInputs.cache
+D:\Bold Solution\.NET\testes-rd-station\bin\Debug\net6.0\testes-rd-station.exe
+D:\Bold Solution\.NET\testes-rd-station\bin\Debug\net6.0\testes-rd-station.deps.json
+D:\Bold Solution\.NET\testes-rd-station\bin\Debug\net6.0\testes-rd-station.runtimeconfig.json
+D:\Bold Solution\.NET\testes-rd-station\bin\Debug\net6.0\testes-rd-station.dll
+D:\Bold Solution\.NET\testes-rd-station\bin\Debug\net6.0\testes-rd-station.pdb
+D:\Bold Solution\.NET\testes-rd-station\obj\Debug\net6.0\testes-rd-station.dll
+D:\Bold Solution\.NET\testes-rd-station\obj\Debug\net6.0\refint\testes-rd-station.dll
+D:\Bold Solution\.NET\testes-rd-station\obj\Debug\net6.0\testes-rd-station.pdb
+D:\Bold Solution\.NET\testes-rd-station\obj\Debug\net6.0\testes-rd-station.genruntimeconfig.cache
+D:\Bold Solution\.NET\testes-rd-station\obj\Debug\net6.0\ref\testes-rd-station.dll
