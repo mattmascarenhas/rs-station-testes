@@ -13,3 +13,9 @@ D:\Bold Solution\.NET\testes-rd-station\obj\Debug\net6.0\refint\testes-rd-statio
 D:\Bold Solution\.NET\testes-rd-station\obj\Debug\net6.0\testes-rd-station.pdb
 D:\Bold Solution\.NET\testes-rd-station\obj\Debug\net6.0\testes-rd-station.genruntimeconfig.cache
 D:\Bold Solution\.NET\testes-rd-station\obj\Debug\net6.0\ref\testes-rd-station.dll
+D:\Bold Solution\.NET\testes-rd-station\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Bold Solution\.NET\testes-rd-station\obj\Debug\net6.0\testes-rd-station.csproj.CopyComplete
+D:\Bold Solution\.NET\testes-rd-station\bin\Debug\net6.0\RestSharp.dll
+D:\Bold Solution\.NET\testes-rd-station\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Bold Solution\.NET\testes-rd-station\bin\Debug\net6.0\System.Text.Json.dll
+D:\Bold Solution\.NET\testes-rd-station\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
